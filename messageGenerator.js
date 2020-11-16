@@ -42,8 +42,7 @@ let optionIdx = generateRandomNumber(objectStatement[key].length);
 }
   
 function fullStatement(array) {
-    // Add some ASCII here?
-    // Add in more symbols to the array? like emojies or what not?
+    
     const formatted = Stetements.join('\n\n');
     console.log(formatted);
 }

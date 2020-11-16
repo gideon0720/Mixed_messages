@@ -1,6 +1,6 @@
 # Mixed Message - Random message 
 
-> The main objective of project is to create a random message every time the user execute program.
+> The main objective of project is to create a random message every time the user execute program. The statement is based on random planet, random mood and message.
 
 ## Table of contents
 * [General info](#general-info)
@@ -18,7 +18,6 @@ Mixed Message is a console app that prints a randomly generated message. The mes
 * git - version 2.29.2.windows.2
 
 ## Features
-List of features ready and TODOs for future development
 * Prints a random statement.
 
 ## Status
@@ -27,4 +26,4 @@ Ongoing project.
 ## Inspiration
 This is a portfolio project in Codecademy.
 
-My second try in main git
+
