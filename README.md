@@ -27,3 +27,4 @@ Ongoing project.
 ## Inspiration
 This is a portfolio project in Codecademy.
 
+My second try in main git
